@@ -1,0 +1,20 @@
+.avatar{
+  width:100%
+}
+
+.navbar-inverse{
+  background-color: #0e0929;
+  border-color: #0e0929;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.navbar-inverse .navbar-brand{
+  color: #ffffff;
+}
+
+.logo{
+  width:35px;
+  height: 35px;
+}
